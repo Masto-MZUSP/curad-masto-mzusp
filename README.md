@@ -4,6 +4,13 @@ Este repositório reúne tutoriais, procedimentos e protocolos relacionados à c
 
 O objetivo é documentar e padronizar as atividades de curadoria, facilitando o acesso às orientações técnicas e contribuindo para a manutenção e a qualidade da coleção.
 
+## Conteúdo
+
+| Arquivo | Versão | Objetivo |
+| --- | --- | --- |
+| [Incorporação de Espécimes](https://github.com/Masto-MZUSP/curad-masto-mzusp/blob/main/curad_IncorporacaoEspecimes_v1.0.pdf) | v2.0 | Padronizar o processo de limpeza, secagem e organização de espécimes para a incorporação adequada na Coleção de Mamíferos do Museu de Zoologia da USP. Este protocolo foi desenvolvido durante a incorporação da coleção de pequenos mamíferos do Instituto Adolfo Lutz. |
+| [Obtenção de Amostras de DNA](https://github.com/Masto-MZUSP/curad-masto-mzusp/blob/main/curad_amostrasDNA_v1.0.pdf) | v1.0 | Orientar a equipe do laboratório para coleta de amostras a partir de tecidos frescos ou espécimes depositados na coleção. |
+
 ## Como utilizar
 
 Consulte os documentos correspondentes ao procedimento desejado. Antes de executar qualquer atividade, verifique se há atualizações ou versões mais recentes do protocolo.
